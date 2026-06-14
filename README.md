@@ -1,155 +1,121 @@
 <div align="center">
 
-# Harish Nandha Kumar
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Harish%20Nandha%20Kumar&fontSize=55&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
 
-### Backend Engineer • Distributed Systems • Cloud Infrastructure
+# Backend Engineer • Distributed Systems • Cloud Infrastructure
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Distributed+Systems+Enthusiast;Systems+Programming+in+C;Cloud-Native+Applications+on+AWS;MS+Computer+Science+%40+Northeastern+University"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Distributed+Systems+Engineer;Cloud+Native+Application+Developer;Systems+Programming+with+C+and+Linux;Spring+Boot+%7C+AWS+%7C+Kafka+%7C+PostgreSQL"/>
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/harish-n-kumar/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:harishkumar2171@gmail.com)
+<a href="https://www.linkedin.com/in/harish-n-kumar/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:harishkumar2171@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=harishkumar2171&style=for-the-badge&color=blue"/>
 
 </div>
 
 ---
 
-# Engineering Philosophy
+# About Me
 
 ```java
-while (alive) {
-    learn();
-    build();
-    optimize();
-    scale();
+public class Harish {
+
+    String education =
+        "MS Computer Science @ Northeastern University";
+
+    String[] interests = {
+        "Backend Engineering",
+        "Distributed Systems",
+        "Cloud Infrastructure",
+        "Systems Programming",
+        "Platform Engineering"
+    };
+
+    void currentGoal() {
+        buildProductionGradeSystems();
+    }
 }
 ```
 
-I enjoy building systems that operate reliably under load.
+---
 
-My work spans:
+# Tech Arsenal
 
-⚡ Distributed Systems
+<div align="center">
 
-⚡ Backend Engineering
+<img src="https://skillicons.dev/icons?i=java,spring,go,c,cpp,python,typescript,javascript"/>
 
-⚡ Systems Programming
+<br><br>
 
-⚡ Cloud Infrastructure
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka,mysql"/>
 
-⚡ Platform Engineering
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,githubactions"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express"/>
+
+</div>
 
 ---
 
-# Current Tech Stack
+# Featured Projects
+
+### FUSE File System
 
 ```text
-Languages
-├── Java
-├── Go
-├── C
-├── Python
-├── TypeScript
-└── SQL
-
-Backend
-├── Spring Boot
-├── Express.js
-├── REST APIs
-├── gRPC
-├── JWT
-└── Kafka
-
-Cloud
-├── AWS
-├── Docker
-├── Kubernetes
-├── Redis
-├── PostgreSQL
-└── GitHub Actions
-```
-
----
-
-# Featured Engineering Projects
-
-## FUSE File System
-
-```bash
 Built from scratch in C
 
-✓ Custom inode architecture
-✓ Block allocation engine
-✓ Directory traversal
-✓ POSIX filesystem operations
-✓ 40+ automated tests
+• Custom inode architecture
+• Block allocation engine
+• POSIX filesystem operations
+• 40+ automated tests
+• Linux user-space filesystem
 ```
 
----
+### Multi-Threaded Database Server
 
-## Multi-Threaded Database Server
-
-```bash
+```text
 Concurrent key-value database
 
-✓ TCP sockets
-✓ Producer-consumer architecture
-✓ Thread synchronization
-✓ Persistent storage engine
-✓ Custom binary protocol
+• TCP networking
+• Producer-consumer architecture
+• POSIX threads
+• Binary protocol
+• Persistent storage engine
 ```
 
----
+### Cloud Native Task Platform
 
-## Cloud-Native Task Platform
-
-```bash
+```text
 Production-grade SaaS platform
 
-✓ PostgreSQL
-✓ Redis caching
-✓ OAuth
-✓ Rate limiting
-✓ CI/CD automation
-✓ Background scheduling
+• PostgreSQL
+• Redis caching
+• OAuth
+• Rate limiting
+• CI/CD automation
+• Background scheduling
 ```
 
----
+### Patient Management Microservices
 
-## Spring Boot Microservices
+```text
+Java • Spring Boot • Kafka • gRPC
 
-```bash
-Event-driven healthcare platform
-
-✓ Kafka messaging
-✓ gRPC communication
-✓ JWT authentication
-✓ Docker deployment
-✓ Distributed architecture
-```
-
----
-
-# System Design Interests
-
-```mermaid
-graph TD
-
-A[Backend Systems]
---> B[Microservices]
-
-A --> C[Distributed Systems]
-
-A --> D[Cloud Infrastructure]
-
-C --> E[Kafka]
-
-C --> F[Redis]
-
-D --> G[AWS]
-
-D --> H[Kubernetes]
+• Event-driven architecture
+• JWT authentication
+• Service communication
+• Docker deployment
 ```
 
 ---
@@ -158,34 +124,59 @@ D --> H[Kubernetes]
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarishNandhaKumar&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harishkumar2171&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarishNandhaKumar&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishkumar2171&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
-
-# Contribution Graph
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarishNandhaKumar&theme=tokyo-night&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=harishkumar2171&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# Currently Learning
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harishkumar2171&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=harishkumar2171&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# Current Learning
 
 ```yaml
-2026:
-  - Advanced Spring Boot
-  - Apache Kafka
+Backend:
+  - Spring Boot
+  - Kafka
+  - Distributed Systems
+
+Cloud:
+  - AWS
   - Kubernetes
-  - AWS Architecture
-  - Distributed System Design
-  - Large Scale Backend Systems
+  - Terraform
+
+Engineering:
+  - System Design
+  - Platform Engineering
+  - Scalability
 ```
 
 ---
@@ -204,6 +195,8 @@ Distributed Systems Engineer
 
 <div align="center">
 
-### "First make it work. Then make it fast. Then make it scale."
+### First make it work. Then make it fast. Then make it scale.
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
