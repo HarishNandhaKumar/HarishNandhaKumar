@@ -150,16 +150,6 @@ Java • Spring Boot • Kafka • gRPC
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HarishNandhaKumar&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
 # Current Learning
 
 ```yaml
