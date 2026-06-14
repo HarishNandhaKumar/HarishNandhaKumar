@@ -124,9 +124,9 @@ Java • Spring Boot • Kafka • gRPC
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harishkumar2171&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarishNandhaKumar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishkumar2171&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarishNandhaKumar&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -134,7 +134,7 @@ Java • Spring Boot • Kafka • gRPC
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=harishkumar2171&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=HarishNandhaKumar&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -144,7 +144,7 @@ Java • Spring Boot • Kafka • gRPC
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harishkumar2171&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarishNandhaKumar&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -154,7 +154,7 @@ Java • Spring Boot • Kafka • gRPC
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=harishkumar2171&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=HarishNandhaKumar&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
